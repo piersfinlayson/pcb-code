@@ -1,2 +1,2 @@
 # pcb-code
-Solder-your-own PCB code
+Code for solder-your-own PCBs.
